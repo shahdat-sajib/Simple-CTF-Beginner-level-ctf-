@@ -15,3 +15,4 @@ Interestingly we are getting two directory 1. /robots.txt 2. /simple/
 Step 4: Now we will go to robots.txt via browser
 ![image](https://user-images.githubusercontent.com/59218362/210262245-0f8ca688-74c5-4ba8-82ba-22d909d906a7.png)
 Here we can find it disallow openemr-5_0_1_3
+have to update after the correction in script 
